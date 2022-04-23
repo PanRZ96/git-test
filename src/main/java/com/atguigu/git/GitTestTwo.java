@@ -5,5 +5,6 @@ public class GitTestTwo {
         System.out.println("prz11");
         System.out.println("prz22");
         System.out.println("prz33");
+        System.out.println("prz44");
     }
 }
