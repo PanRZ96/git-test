@@ -13,7 +13,7 @@ public class GitTestTwo {
         System.out.println("prz88888888");
         System.out.println("push test");
         System.out.println("====================");
-        System.out.println("clone test");
+        System.out.println("pull test");
      
     }
 }
