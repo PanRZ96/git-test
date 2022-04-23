@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello, git!!!3333");
         System.out.println("hello, git!!!44444");
         System.out.println("master test merge !!!");
+        System.out.println("hot-fix test!!!");
     }
 }
